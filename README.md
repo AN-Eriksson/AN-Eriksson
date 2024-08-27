@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a first years student at Linnéuniversitetet in Sweden, following the Web Programmer program (180hp / 3 yrs).
+
 <!--
 **AN-Eriksson/AN-Eriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
