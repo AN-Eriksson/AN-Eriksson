@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a first years student at Linnéuniversitetet in Sweden, following the Web Programmer program (180hp / 3 yrs).
+I am a first years student @ Web Development Programme, Linnaeus University Sweden.
 
 <!--
 **AN-Eriksson/AN-Eriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
