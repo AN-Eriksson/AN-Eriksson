@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a first years student @ Web Development Programme, Linnaeus University Sweden.
+I am a second year student @ Web Development Programme, Linnaeus University Sweden.
 
 <!--
 **AN-Eriksson/AN-Eriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
