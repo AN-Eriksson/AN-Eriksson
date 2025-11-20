@@ -10,7 +10,7 @@ Byggt med **Java Spring Boot** i backend och **Vite + Tailwind** i frontend.
 Containeriserat med **Docker** och med beständig datalagring i **MongoDB**.  
 Automatiserade bygg- och deployflöden med **GitHub Actions**.
 
-**Tekniker:** `Spring Boot`, `Vite`, `Tailwind`, `MongoDB`, `Docker`, `GitHub Actions`
+**Tekniker:** `Spring Boot`, `React`, `Vite`, `Tailwind`, `MongoDB`, `Docker`, `GitHub Actions`
 
 ---
 
