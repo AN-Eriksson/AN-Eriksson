@@ -6,7 +6,7 @@
 
 ### 🪵 [PelletTracker](https://pellettracker.andreaseriksson.me)
 Ett fullstack-projekt för att **hantera och analysera pelletsförbrukning**.  
-Byggt med **Java Spring Boot** i backend och **Vite + Tailwind** i frontend.  
+Byggt med **Java Spring Boot** i backend och **React + Tailwind** i frontend.  
 Containeriserat med **Docker** och med beständig datalagring i **MongoDB**.  
 Automatiserade bygg- och deployflöden med **GitHub Actions**.
 
