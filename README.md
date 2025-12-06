@@ -38,9 +38,9 @@ Målet var att skapa ett intuitivt gränssnitt för att placera ut skyltar och s
 
 ---
 
-## 🛠️ Teknisk verktygslåda
+## 🛠️ Tekniker
 
-`Java` · `JavaScript` · `React` · `Spring Boot` · `Node.js` · `Express` · `MongoDB`  
+`Java` · `JavaScript` · `React` · `Spring Boot` · `Node.js` · `Express` · `SQL` · `MongoDB`  
 `Docker` · `GitHub Actions (CI/CD)` · `HTML/CSS` · `Tailwind` · `Linux` · `Nginx`
 
 ---
