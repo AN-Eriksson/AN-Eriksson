@@ -14,14 +14,6 @@ Automatiserade bygg- och deployflöden med **GitHub Actions**.
 
 ---
 
-### 🌍 [Translator](https://translator.andreaseriksson.me)
-Ett React-projekt som låter användaren **konvertera Markdown till HTML** och översätta text via Google Translate API.  
-En egenutvecklad **NPM-modul** för Markdown-konverteringen.
-
-**Tekniker:** `React`, `Vite`, `Tailwind`, `Node.js`, `Docker`, `GitHub Actions`
-
----
-
 ### 🐾 [Rallybana](https://rallybana.andreaseriksson.me)
 En interaktiv webbapp för **att skapa och redigera rallylydnadsbanor** (hundsport).  
 Byggd med **Express** och **MongoDB**, med autentisering via **JWT** och frontend-styling i **Tailwind**.  
